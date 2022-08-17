@@ -11,6 +11,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "it is ok real, i am man , do you like and you, fighting!!!,test complete";
+        return "it is ok real, i am man , do you like and you, fighting!!!,test complete!! docker";
     }
 }
